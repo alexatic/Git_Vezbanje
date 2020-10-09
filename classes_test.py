@@ -20,6 +20,8 @@ Boban.eat('apple')
 print (Boban.health)
 Boban.eat ('peanut')
 print (Boban.health)
+Boban.eat('apple')
+print(Boban.health)
 input()
 
 
