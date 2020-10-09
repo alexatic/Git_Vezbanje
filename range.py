@@ -16,3 +16,5 @@ brojevi = range(1,100)
 
 for i in brojevi:
     print(i)
+
+input()
