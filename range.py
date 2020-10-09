@@ -17,4 +17,9 @@ brojevi = range(1,100)
 for i in brojevi:
     print(i)
 
+a=0
+while a < 10:
+    print("I hate this")
+    a += 1
+
 input()
